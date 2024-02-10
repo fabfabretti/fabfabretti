@@ -27,19 +27,9 @@
 ![Filmora](https://img.shields.io/badge/filmora-grey?style=for-the-badge&logo=wondershare)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![SAI](https://img.shields.io/badge/Synthesizer%20V%20-%236DB33F?style=for-the-badge)
+![SV](https://img.shields.io/badge/Synthesizer%20V%20-%236DB33F?style=for-the-badge)
 ![SAI](https://img.shields.io/badge/FLStudio-FF7139?style=for-the-badge)
 
-
-
-👧⚙💻
-
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
-![TOR](https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
-<br>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=fabfabretti&theme=dracula&include_all_commits=true&show_icons=true&hide=contribs" />
