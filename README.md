@@ -32,8 +32,8 @@
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=fabfabretti&theme=dracula&include_all_commits=true&show_icons=true&hide=contribs" />
+  <img width=400 height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=fabfabretti&theme=dracula&include_all_commits=true&show_icons=true&hide=contribs" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabfabretti&theme=dracula&hide_progress=true" />
+  <img width=400 height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabfabretti&theme=dracula&hide_progress=true" />
 </a>
