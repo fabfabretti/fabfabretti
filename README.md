@@ -27,10 +27,10 @@
 ![Filmora](https://img.shields.io/static/v1?message=Filmora&logo=wondershare&labelColor=5c5c5c&color=07273D&logoColor=white&label=%20)
 ![Canva](https://img.shields.io/static/v1?message=Canva&logo=canva&labelColor=5c5c5c&color=00C4CC&logoColor=white&label=%20)
 ![Figma](https://img.shields.io/static/v1?message=Figma&logo=figma&labelColor=5c5c5c&color=F24E1E&logoColor=white&label=%20)
-![SynthesizerV](https://img.shields.io/static/v1?message=SynthesizerV&labelColor=5c5c5c&color=236DB33F&logoColor=white&label=%20)
-![PaintToolSai](https://img.shields.io/static/v1?message=Paint%20Tool%20SAI&labelColor=5c5c5c&color=236DB33F&logoColor=white&label=%20)
+![SynthesizerV](https://img.shields.io/static/v1?message=SynthesizerV&labelColor=5c5c5c&color=7bd426&logoColor=white&label=%20)
+![PaintToolSai](https://img.shields.io/static/v1?message=Paint%20Tool%20SAI&labelColor=5c5c5c&color=55b657&logoColor=white&label=%20)
 ![FL Studio](https://img.shields.io/static/v1?message=FL%20Studio&labelColor=5c5c5c&color=FF7139&logoColor=white&label=%20)
-
+![Raspberry Pi](https://img.shields.io/static/v1?message=Raspberry%20Pi&logo=raspberrypi&labelColor=5c5c5c&color=A22846&logoColor=white&label=%20)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img width=400 height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=fabfabretti&theme=dracula&include_all_commits=true&show_icons=true&hide=contribs" /></a>
