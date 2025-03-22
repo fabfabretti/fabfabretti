@@ -7,6 +7,7 @@
 
 ![Python](https://img.shields.io/static/v1?message=Python&logo=python&labelColor=5c5c5c&color=3776ab&logoColor=white&label=%20)
 ![Angular](https://img.shields.io/static/v1?message=Angular&logo=angular&labelColor=5c5c5c&color=DD0031&label=%20)
+![React](https://img.shields.io/static/v1?message=React&logo=react&labelColor=5c5c5c&color=5ed8f8&label=%20)
 ![HTML](https://img.shields.io/static/v1?message=HTML&logo=html5&labelColor=5c5c5c&color=e34f26&logoColor=white&label=%20)
 ![CSS](https://img.shields.io/static/v1?message=CSS&logo=css3&labelColor=5c5c5c&color=e34f26&logoColor=white&label=%20)
 ![JS](https://img.shields.io/static/v1?message=Javascript&logo=javascript&labelColor=5c5c5c&color=f7df1e&logoColor=white&label=%20)
@@ -17,6 +18,7 @@
 ![Spring](https://img.shields.io/static/v1?message=Spring&logo=spring&labelColor=5c5c5c&color=6DB33F&logoColor=white&label=%20)
 ![PostgreSQL](https://img.shields.io/static/v1?message=PostgreSQL&logo=postgresql&labelColor=5c5c5c&color=4169E1&logoColor=white&label=%20)
 ![Couchbase](https://img.shields.io/static/v1?message=Couchbase&logo=couchbase&labelColor=5c5c5c&color=EA2328&logoColor=white&label=%20)
+![Supabase](https://img.shields.io/static/v1?message=Supabase&logo=supabase&labelColor=5c5c5c&color=3ece8f&logoColor=white&label=%20)
 ![LaTeX](https://img.shields.io/static/v1?message=LaTeX&logo=latex&labelColor=5c5c5c&color=008080&logoColor=white&label=%20)
 
 🎨🎵🌈🎹
