@@ -34,7 +34,5 @@
 ![FL Studio](https://img.shields.io/static/v1?message=FL%20Studio&labelColor=5c5c5c&color=FF7139&logoColor=white&label=%20)
 ![Raspberry Pi](https://img.shields.io/static/v1?message=Raspberry%20Pi&logo=raspberrypi&labelColor=5c5c5c&color=A22846&logoColor=white&label=%20)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img width=400 height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=fabfabretti&theme=dracula&include_all_commits=true&show_icons=true&hide=contribs" /></a>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img width=400 height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabfabretti&theme=dracula&hide_progress=true" />
-</a>
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=fabfabretti&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=monokai)](https://github-stats-extended.vercel.app/api?username=fabfabretti&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=monokai)
