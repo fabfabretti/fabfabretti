@@ -5,6 +5,7 @@
 
 👨‍💻👩‍💻👨‍💻
 
+![Opencode](https://img.shields.io/static/v1?message=Opencode&logo=opencode&labelColor=5c5c5c&color=ffffff&logoColor=white&label=%20)
 ![Python](https://img.shields.io/static/v1?message=Python&logo=python&labelColor=5c5c5c&color=3776ab&logoColor=white&label=%20)
 ![Angular](https://img.shields.io/static/v1?message=Angular&logo=angular&labelColor=5c5c5c&color=DD0031&label=%20)
 ![React](https://img.shields.io/static/v1?message=React&logo=react&labelColor=5c5c5c&color=5ed8f8&label=%20)
